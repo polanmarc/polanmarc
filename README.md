@@ -1,4 +1,4 @@
-### Hi there, I'm [Marc Polán](https://github.com/polanmarc) <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNrdTFvZ2Vzc2hkOWVoeDFsOHRib3Z1bnNkMWdpNHFnMW1qZGZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)" width="25">
+### Hi there, I'm [Marc Polán](https://github.com/polanmarc) <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNrdTFvZ2Vzc2hkOWVoeDFsOHRib3Z1bnNkMWdpNHFnMW1qZGZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNrdTFvZ2Vzc2hkOWVoeDFsOHRib3Z1bnNkMWdpNHFnMW1qZGZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)" width="25">
 
 I am a 20-year-old Full Stack Developer, passionate about technology and with a continuous learning mindset. I am currently pursuing a degree in Computer Engineering specializing in Management and Information Systems at the Tecnocampus University while working as a Software Developer at Vertical Ibérica.
 
