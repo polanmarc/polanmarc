@@ -56,6 +56,6 @@ I excel in teamwork, effective communication, and the ability to collaborate wit
 ![Fedora](https://img.shields.io/badge/fedora-%2351A2DA?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
 ![Kali](https://img.shields.io/badge/kalilinux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 
-## Let's Connect! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
+## Let's Connect! <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width ="20">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcpolan/)
