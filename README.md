@@ -1,6 +1,10 @@
 ### Hi there, I'm [Marc Polán](https://github.com/polanmarc) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-As a 19-year-old student studying Web Application Development at [IES Thos i Codina](https://www.iesthosicodina.cat/oferta/estudis/fp/daw/), I am enthusiastic about exploring new technologies and pushing the boundaries of what is possible through programming. I am committed to producing high-quality work and delivering results that exceed expectations. If you're looking for a motivated and dedicated software developer, I would love to connect and discuss potential opportunities!
+I am a 20-year-old Full Stack Developer, passionate about technology and with a continuous learning mindset. I am currently pursuing a degree in Computer Engineering specializing in Management and Information Systems at the Tecnocampus University while working as a Software Developer at Vertical Ibérica.
+
+My experience combines the development of innovative technological solutions with a solid academic background. Throughout my career, I have had the opportunity to work on projects related to artificial intelligence, exploring how this technology can be integrated to optimize business solutions.
+
+I excel in teamwork, effective communication, and the ability to collaborate with diverse stakeholders in complex projects. My commitment to constant improvement drives me to stay up to date with the latest technologies and trends in the field, enabling me to deliver efficient and high-quality solutions. I am dedicated to professional growth and creating value through technology.
 
 ## Skills: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
