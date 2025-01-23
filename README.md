@@ -1,4 +1,4 @@
-### Hi there, I'm [Marc Polán](https://github.com/polanmarc) <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNrdTFvZ2Vzc2hkOWVoeDFsOHRib3Z1bnNkMWdpNHFnMW1qZGZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNrdTFvZ2Vzc2hkOWVoeDFsOHRib3Z1bnNkMWdpNHFnMW1qZGZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)" width="25">
+### Hi there, I'm [Marc Polán](https://github.com/polanmarc) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 I am a 20-year-old Full Stack Developer, passionate about technology and with a continuous learning mindset. I am currently pursuing a degree in Computer Engineering specializing in Management and Information Systems at the Tecnocampus University while working as a Software Developer at Vertical Ibérica.
 
@@ -6,24 +6,34 @@ My experience combines the development of innovative technological solutions wit
 
 I excel in teamwork, effective communication, and the ability to collaborate with diverse stakeholders in complex projects. My commitment to constant improvement drives me to stay up to date with the latest technologies and trends in the field, enabling me to deliver efficient and high-quality solutions. I am dedicated to professional growth and creating value through technology.
 
-## Skills: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+## Skills: <img src="https://data.textstudio.com/output/sample/animated/9/5/8/4/code-24-14859.gif" width ="50">
 
 #### Languages:
 
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;       
 
-#### Front-End Development:
+#### Frameworks:
+
+![React.js](https://img.shields.io/badge/React.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
+![Doctrine](https://img.shields.io/badge/Doctrine-%23FC6A31?style=for-the-badge&logo=doctrine&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
+#### Web languages:
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Database:
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=MariaDB&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
