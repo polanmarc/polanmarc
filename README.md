@@ -37,7 +37,6 @@ I excel in teamwork, effective communication, and the ability to collaborate wit
 
 #### Tools and Technologies
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)&nbsp;
@@ -47,7 +46,14 @@ I excel in teamwork, effective communication, and the ability to collaborate wit
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)&nbsp;
+![Sublime Text](https://img.shields.io/badge/sublimetext-%23FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)&nbsp;
+
+#### Systems:
+
+![Windows](https://img.shields.io/badge/windows-%23009AEE?style=for-the-badge&logo=Windows&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Fedora](https://img.shields.io/badge/fedora-%2351A2DA?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
+![Kali](https://img.shields.io/badge/kalilinux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 
 ## Let's Connect! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
 
