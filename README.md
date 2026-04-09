@@ -45,7 +45,7 @@ I excel in teamwork, effective communication, and the ability to collaborate wit
 
 ### 🤖 Artificial Intelligence and Bots
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![OpenAI](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
 ### 🧪 Tools and Technologies
 
