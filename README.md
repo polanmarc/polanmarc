@@ -27,6 +27,7 @@ I excel in teamwork, effective communication, and the ability to collaborate wit
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Spring](https://img.shields.io/badge/spring-F80000.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 
 ### 🎨 Web languages:
@@ -59,6 +60,7 @@ I excel in teamwork, effective communication, and the ability to collaborate wit
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=black)&nbsp;
 
 ### 💻 IDEs
 
